@@ -1,0 +1,11 @@
+p { 
+  	background-color: yellow;
+  	height: 100px; 
+  	margin: -8px;
+  	text-align: left;
+}
+
+.p2{
+	background-color: red;
+	margin: 8px -8px 8px -8px;
+}
